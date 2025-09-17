@@ -7,3 +7,5 @@ This Gabby and Lorena's website.
 Find Gabby [here](https://github.com/gevergreen).
 
 Find Lorena [here](https://github.com/lorenaps07).
+
+![This is Pippin, Gabby's dog. He is a very good boy](images/IMG_2364.JPG)
