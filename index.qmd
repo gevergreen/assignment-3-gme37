@@ -1,5 +1,5 @@
 ---
-title: "Our collaborative website"
+title: "Welcome to our website"
 ---
 
 This Gabby and Lorena's website
