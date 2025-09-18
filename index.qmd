@@ -1,5 +1,5 @@
 ---
-title: "Welcome to our website"
+title: "✨ Welcome to our website ✨"
 ---
 
 This Gabby and Lorena's website.
@@ -9,3 +9,5 @@ Find Gabby [here](https://github.com/gevergreen).
 Find Lorena [here](https://github.com/lorenaps07).
 
 ![This is Pippin, Gabby's dog. He is a very good boy](images/IMG_2364.JPG)
+
+![And this is Nutella, Lorena's cat. She is very sweet](images/nutella.jpeg)
