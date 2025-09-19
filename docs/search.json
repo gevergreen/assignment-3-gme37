@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "✨ Welcome to our website ✨",
+    "section": "",
+    "text": "This Gabby and Lorena’s website.\nFind Gabby here.\nFind Lorena here.\n\n\n\nThis is Pippin, Gabby’s dog. He is a very good boy\n\n\n\n\n\nAnd this is Nutella, Lorena’s cat. She is very sweet"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Gabby",
     "section": "",
     "text": "Gabby is a librarian living and working in Ithaca.\nHere are some things she loves:\n\nspending time with her dog Pippin\nhiking and exploring state parks\nsewing"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to our website",
-    "section": "",
-    "text": "This Gabby and Lorena’s website.\nFind Gabby here.\nFind Lorena here.\n\n\n\nThis is Pippin, Gabby’s dog. He is a very good boy"
   }
 ]
