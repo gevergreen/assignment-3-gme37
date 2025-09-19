@@ -1,6 +1,8 @@
 ---
-title: "Gabby Evergreen"
+title: "Gabby"
 ---
+
+![](images/headshot.jpg)
 
 Gabby is a librarian living and working in Ithaca.
 
